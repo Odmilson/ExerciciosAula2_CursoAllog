@@ -45,7 +45,11 @@ internal class Program
         Console.WriteLine("--- Cadastro de IMC ---\n\n");
 
         Console.Write("Nome: ");
-        string nome = Console.ReadLine()
+        string nome = Console.ReadLine();
+        while(!Regex.IsMatch(nome, @"^(?=.*[a-zA-Z].*[a-zA-Z].*[a-zA-Z])[a-zA-Z0-9]+$")){ //Verifica se a string contém pelo menos 3 letras de A a Z e permite apenas letras e números
+            Console.WriteLine("Valor invalido! Digite novamente:");
+            nome = Console.ReadLine();
+        }
         
         Console.Write("Idade: ");
         int idade;
