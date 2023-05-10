@@ -1,0 +1,30 @@
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\Ex 10\bin\Debug\net7.0\Ex 10.exe
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\Ex 10\bin\Debug\net7.0\Ex 10.deps.json
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\Ex 10\bin\Debug\net7.0\Ex 10.runtimeconfig.json
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\Ex 10\bin\Debug\net7.0\Ex 10.dll
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\Ex 10\bin\Debug\net7.0\Ex 10.pdb
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\Ex 10\obj\Debug\net7.0\Ex 10.csproj.AssemblyReference.cache
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\Ex 10\obj\Debug\net7.0\Ex 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\Ex 10\obj\Debug\net7.0\Ex 10.AssemblyInfoInputs.cache
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\Ex 10\obj\Debug\net7.0\Ex 10.AssemblyInfo.cs
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\Ex 10\obj\Debug\net7.0\Ex 10.csproj.CoreCompileInputs.cache
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\Ex 10\obj\Debug\net7.0\Ex 10.dll
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\Ex 10\obj\Debug\net7.0\refint\Ex 10.dll
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\Ex 10\obj\Debug\net7.0\Ex 10.pdb
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\Ex 10\obj\Debug\net7.0\Ex 10.genruntimeconfig.cache
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\Ex 10\obj\Debug\net7.0\ref\Ex 10.dll
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\ex10\bin\Debug\net7.0\Ex 10.exe
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\ex10\bin\Debug\net7.0\Ex 10.deps.json
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\ex10\bin\Debug\net7.0\Ex 10.runtimeconfig.json
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\ex10\bin\Debug\net7.0\Ex 10.dll
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\ex10\bin\Debug\net7.0\Ex 10.pdb
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\ex10\obj\Debug\net7.0\Ex 10.csproj.AssemblyReference.cache
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\ex10\obj\Debug\net7.0\Ex 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\ex10\obj\Debug\net7.0\Ex 10.AssemblyInfoInputs.cache
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\ex10\obj\Debug\net7.0\Ex 10.AssemblyInfo.cs
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\ex10\obj\Debug\net7.0\Ex 10.csproj.CoreCompileInputs.cache
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\ex10\obj\Debug\net7.0\Ex 10.dll
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\ex10\obj\Debug\net7.0\refint\Ex 10.dll
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\ex10\obj\Debug\net7.0\Ex 10.pdb
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\ex10\obj\Debug\net7.0\Ex 10.genruntimeconfig.cache
+C:\Users\odmil\Documents\Repositorios\Aula02 - Allog\ex10\obj\Debug\net7.0\ref\Ex 10.dll
